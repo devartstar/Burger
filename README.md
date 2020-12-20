@@ -1,3 +1,6 @@
+# About The Project
+This is a Burger Builder app where you can customize, create and purchase your own Burger. It also show the price associted with it and the summary od the Burger
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
